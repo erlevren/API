@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="fastRequestCollection">
+    <option name="detail">
+      <CollectionDetail>
+        <option name="childList">
+          <list>
+            <CollectionDetail>
+              <option name="childList">
+                <list>
+                  <CollectionDetail>
+                    <option name="childList">
+                      <list>
+                        <CollectionDetail>
+                          <option name="domain" value="http://localhost:3306" />
+                          <option name="enableEnv" value="local" />
+                          <option name="enableProject" value="api" />
+                          <option name="name" value="New Request" />
+                          <option name="paramGroup">
+                            <ParamGroupCollection>
+                              <option name="methodDescription" value="New Request" />
+                              <option name="multipartKeyValueListJson" value="[]" />
+                              <option name="originUrl" value="https://restful-booker.herokuapp.com/booking" />
+                              <option name="pathParamsKeyValueListJson" value="[]" />
+                              <option name="url" value="https://restful-booker.herokuapp.com/booking" />
+                              <option name="urlEncodedKeyValueListJson" value="[]" />
+                              <option name="urlParamsKeyValueListJson" value="[]" />
+                            </ParamGroupCollection>
+                          </option>
+                          <option name="type" value="2" />
+                        </CollectionDetail>
+                      </list>
+                    </option>
+                    <option name="id" value="20220703000331801" />
+                    <option name="name" value="Temp Group" />
+                    <option name="type" value="3" />
+                  </CollectionDetail>
+                </list>
+              </option>
+              <option name="groupId" value="1" />
+              <option name="id" value="1" />
+              <option name="name" value="Default Group" />
+              <option name="type" value="1" />
+            </CollectionDetail>
+          </list>
+        </option>
+        <option name="groupId" value="-1" />
+        <option name="id" value="0" />
+        <option name="name" value="Root" />
+        <option name="type" value="1" />
+      </CollectionDetail>
+    </option>
+  </component>
+</project>
