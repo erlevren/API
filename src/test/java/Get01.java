@@ -39,7 +39,7 @@ public class Get01 {
     @Test
     public void get01() {
         //   i) Set the URL
-        String url = "https://restful-booker.herokuapp.com/booking/5357";
+        String url = "https://restful-booker.herokuapp.com/booking/1262";
         //   ii) Set the expected data(POST-PUT-PATCH)
 
         //   iii) Type code to send request
